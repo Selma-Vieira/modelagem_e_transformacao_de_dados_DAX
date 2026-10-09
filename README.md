@@ -22,8 +22,5 @@ O projeto tem como finalidade organizar e estruturar os dados financeiros de for
 - Planilha **Financials Simple** como fonte de dados.
 - Ferramentas de modelagem e organização de schemas.
 
-## Próximos Passos
-- Expandir a documentação com exemplos práticos de consultas.
-- Criar visualizações gráficas das dependências entre tabelas.
-- Adicionar scripts para automação de análises.
+
 
