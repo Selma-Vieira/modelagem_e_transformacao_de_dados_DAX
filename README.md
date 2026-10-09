@@ -27,6 +27,3 @@ O projeto tem como finalidade organizar e estruturar os dados financeiros de for
 - Criar visualizações gráficas das dependências entre tabelas.
 - Adicionar scripts para automação de análises.
 
----
-
-Quer que eu também prepare uma seção de **exemplo de uso** com queries SQL ou scripts de análise para deixar o README ainda mais prático?
